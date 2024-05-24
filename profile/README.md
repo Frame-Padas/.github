@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 Treinamento de Padawans da Framework para Flutter
+
+Segue anexado o link do figma base para os repositorios
+
+https://www.figma.com/file/6I4pa3u0MWOwRAUMsi7JO7/Valorant-App?node-id=0%3A1&t=M8lEIWatYm0xs1Sh-0
 <!--
 
 **Here are some ideas to get you started:**
